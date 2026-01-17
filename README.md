@@ -1,6 +1,6 @@
 # IAVCodeWood
 
-**Authors:** Deborah Bambil
+**Authors:** Deborah Bambil and Julia Sonsin
 
 ## Dependencies
 
