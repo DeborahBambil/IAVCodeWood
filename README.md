@@ -5,8 +5,8 @@
 ## Dependencies
 
 ### Linux
-- Python 2.7.6
-- OpenCV 2.7
+- Python 3
+- OpenCV 
 - scikit-image
 - TK Development
 - python-weka-wrapper
