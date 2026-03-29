@@ -2,3 +2,6 @@ pip install customtkinter opencv-python scikit-image python-weka-wrapper3 javabr
 pip3 install pyinstaller --break-system-packages
 pip install "numpy<2" --force-reinstall --break-system-packages
 pip install customtkinter opencv-python scikit-image python-weka-wrapper3 --break-system-packages
+pip3 install customtkinter --break-system-packages
+pip3 install opencv-python --break-system-packages
+
