@@ -6,4 +6,16 @@ pip3 install customtkinter --break-system-packages
 pip3 install opencv-python --break-system-packages
 sudo apt update
 sudo apt install default-jdk
-
+pip install customtkinter opencv-python scikit-image python-weka-wrapper3 javabridge numpy pyinstaller 
+pip3 install pyinstaller 
+pip install "numpy<2" --force-reinstall 
+pip install customtkinter opencv-python scikit-image python-weka-wrapper3 
+pip3 install customtkinter
+pip3 install opencv-python 
+sudo apt update
+sudo apt install default-jdk
+pip install customtkinter --break-system-packages
+pip install opencv-python --break-system-packages
+sudo apt update
+sudo apt install libgl1 libegl1 python3-tk x11-apps -y
+sudo apt update && sudo apt install python3-tk -y
